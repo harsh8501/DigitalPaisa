@@ -1,4 +1,4 @@
-The #CRYPTOVERSE
+The #DigitalPaisa
 
 is a reactjs based project which shows full fledged information about the crypto users and their respective market,change ,
 usage and variablilty whihc current market .
